@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    height: auto;
+    width: 500px;
+}
+
+ul {
+    background-color: rgb(245, 245, 220);
+}
+
+ol {
+    background-color: rgb(240, 248, 255);
+}
+
+p{
+    color: rgb(185, 129, 46);
+}
